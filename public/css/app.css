@@ -1,0 +1,32 @@
+table {
+    font-size: larger;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+.home_button {
+    font-size: 20px;
+    background-color: forestgreen;
+    border-bottom-right-radius: 10px;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.img_large {
+    float: left;  
+    padding-left: 50px;
+}
+
+.vote_form { 
+    display: inline-block;   
+    padding: 100px;    
+}
